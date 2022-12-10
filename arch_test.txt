@@ -1,0 +1,1 @@
+creando otro archivo para ver que pasa si lo dejo en el wd sin staggear y en eso querer pasarme a otra rama
